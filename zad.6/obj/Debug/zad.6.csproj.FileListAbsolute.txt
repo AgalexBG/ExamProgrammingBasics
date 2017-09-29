@@ -1,0 +1,6 @@
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\bin\Debug\zad.6.exe.config
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\bin\Debug\zad.6.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\bin\Debug\zad.6.pdb
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\obj\Debug\zad.6.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\obj\Debug\zad.6.pdb
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\zad.6\obj\Debug\zad.6.csprojResolveAssemblyReference.cache

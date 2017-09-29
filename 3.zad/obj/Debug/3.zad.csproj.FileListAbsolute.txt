@@ -1,0 +1,6 @@
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\bin\Debug\3.zad.exe.config
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\bin\Debug\3.zad.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\bin\Debug\3.zad.pdb
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\obj\Debug\3.zad.csprojResolveAssemblyReference.cache
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\obj\Debug\3.zad.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\3.zad\obj\Debug\3.zad.pdb

@@ -1,0 +1,5 @@
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\4.zad\bin\Debug\4.zad.exe.config
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\4.zad\bin\Debug\4.zad.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\4.zad\bin\Debug\4.zad.pdb
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\4.zad\obj\Debug\4.zad.exe
+c:\Users\agale\documents\visual studio 2017\Projects\Exam\4.zad\obj\Debug\4.zad.pdb
